@@ -1,4 +1,4 @@
-//Elabora por Alejandra Jiménez Venegas
+//Elaborado por Alejandra Jiménez Venegas
 //Teoría de Autómatas
 /*Este código es un ejemplo de cómo se puede implementar una máquina de Turing 
 en C para realizar tareas específicas, como duplicar cadenas.
