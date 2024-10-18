@@ -1,3 +1,10 @@
+//Elabora por Alejandra Jiménez Venegas
+//Teoría de Autómatas
+/*Este código es un ejemplo de cómo se puede implementar una máquina de Turing 
+en C para realizar tareas específicas, como duplicar cadenas.
+La combinación de lógica de programación y gráficos permite 
+visualizar el proceso de la máquina de Turing de manera interactiva.*/
+
 #include<stdio.h>
 #include<conio.h>
 #include <windows.h>
@@ -5,7 +12,7 @@
 #include <math.h>
 #define color SetConsoleTextAttribute
 
-//dise�o
+//dise�o
 void gotoxy(int x,int y);
 void cuadros(int p,int q,int c, int f);
 int margen(int x1, int y1, int x2, int y2);
